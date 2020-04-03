@@ -1,0 +1,21 @@
+https://docs.docker.com/engine/reference/commandline/cli/
+
+
+FOR REMOVING DOCKER IMAGE
+
+sudo docker rmi <image id>
+
+
+FOR CREATING AND NAMING THE CONTAINER
+
+$ 
+
+ docker run --name ubuntu_bash --rm -i -t ubuntu bash
+
+docker exec -it ubuntu_bash bash
+
+THIS WILL CREATE A NEW BASH SESSION IN THE CONTAINER UBUNTU_BASH.
+
+
+DELETE ALL CONTAINER AT ONCE
+docker rm -f $(docker ps -a -q)

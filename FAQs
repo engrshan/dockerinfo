@@ -1,0 +1,8 @@
+How do I know if Apache is installed?
+
+Apache HTTP web server
+Go to http://server-ip:80 on your web browser. A page saying your Apache server is running properly should show up. This command will show whether Apache is running or has stopped. If it is stopped, then restart the web server for which use the below command.Feb 3, 2017
+
+
+HOW TO INSTALL APACHE AND HOW IT IS USED
+https://www.google.com/search?sxsrf=ALeKk01ZA8YwAF7qlTT6edPyNCo1XByN8A%3A1585886429369&source=hp&ei=3bSGXu2pFKHIgwfHnISADQ&q=how+to+install+apache+on+docker+container&oq=how+to+install+apache+on+docker&gs_lcp=CgZwc3ktYWIQAxgAMgcIABAUEIcCMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBQgAEM0CMgUIABDNAjIFCAAQzQI6BAgjECc6BAgAEEM6BQgAEJECOgYIABAKEEM6BAgAEAo6BwgjELECECc6CAgAEBYQChAeOgUIIRCgAToECCEQFVCqA1iAemCIf2gNcAB4AYAB4wOIAeJZkgEIMi0yOS42LjWYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab#kpvalbx=_GLWGXoiLFcPggweVgoWgCQ10
